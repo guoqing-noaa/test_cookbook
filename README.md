@@ -1,4 +1,5 @@
 # (Replace_with_your_title) Cookbook
+modidy from the webpate
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
